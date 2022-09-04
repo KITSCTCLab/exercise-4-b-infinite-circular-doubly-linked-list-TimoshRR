@@ -9,4 +9,4 @@ for x in circular_linked_list:
     output.append(x)
 print(len(output))
 for x in output:
-  print(x,end="")
+  print(x,end=" ")
